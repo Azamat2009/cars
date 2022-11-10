@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    align-items: center;
+}
+
+img {
+    background-size: cover;
+    height: 80vh;
+    transform: translate(100% , 0px);
+}
